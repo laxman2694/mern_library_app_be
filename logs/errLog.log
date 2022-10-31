@@ -1,0 +1,152 @@
+20221029	20:34:46	c3dc3f1e-2b14-4013-9784-4e21399204e8	Error: Not allowed by CORS	POST	/auth	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+20221030	05:44:16	cc47cfa1-dcae-40d1-939c-45e28c75c660	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:44:23	1a38a71a-3f77-4e27-86e4-4751750e80f9	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:44:38	ea970eb0-7fbd-4dce-9687-9b27792dd28f	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:44:54	80b5d8dc-b1d0-41d3-8f54-46da3ee6a76e	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:45:09	c7a12dde-dba3-4abc-ac00-358017fc94b7	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:45:25	bd8d1182-cc05-41af-ad1c-c9dcc4bf151f	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:58:04	637784d0-0c37-43dc-960b-c04dd1d66e61	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:58:20	1fd2f6d5-4363-4eaf-97e9-20524a6545f9	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:58:35	88be44f8-ecf8-4139-82bc-bfc391c02fcb	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:58:50	0b0548aa-9afb-40b4-ac83-e7faac947f4b	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:59:05	a30356de-dfed-4003-ab96-ec4daca305c7	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:59:21	e15b9370-a558-4198-9d0b-58fbaa62e24a	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:59:36	e8fc9382-068d-4e16-b9c4-e930b3b469bf	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	05:59:51	5b6b7f4c-fae1-442f-bb1c-77934dc60dd6	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:00:07	45637be4-dfbf-4003-a859-5a378fa6b60a	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:00:22	58d31a4b-ae7f-4996-897a-12f10f493448	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:00:37	62fd8f76-94dc-416b-82bc-d5ca7b58068a	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:00:49	df509571-5196-41af-a80a-d53744388650	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:00:55	d96c32f8-8aac-4869-aab3-52d0beb50ffb	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:54:18	3b788c87-1e87-4da6-9501-1312e6d201a9	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:54:34	dbabfca0-df24-40bb-b1de-8b522d0aacca	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	06:54:50	570f5994-1edd-4d09-9e33-fd8699e3b993	Error: Cannot set headers after they are sent to the client	GET	/books	http://localhost:3000
+20221030	10:13:25	96de768d-80b6-430c-931f-d6111db11485	CastError: Cast to ObjectId failed for value "7676" (type string) at path "_id" for model "Book"	DELETE	/books	http://localhost:3000
+20221030	10:26:06	1b1e2666-451c-45ed-9d34-3389481cc7df	ValidationError: Book validation failed: book: Path `book` is required.	POST	/books	http://localhost:3000
+20221030	10:32:32	1b25ca5e-ba61-44f6-818d-d7d89b6ab69f	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:32:47	defd3c55-dd80-45c2-8829-30b5c6e50542	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:33:03	b83eca12-c7a8-440d-af71-3422e563341b	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:33:18	408455d6-d978-4688-a58c-e5977f6e006e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:33:33	c0777b2f-c0bf-4635-a3d3-479c5d96c8ac	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:33:51	df3f0014-7a38-4ca4-8924-e5872e9fe7f2	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:34:02	fd70d6de-94e3-486b-a6de-7ef1368a3d43	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:34:17	834747a3-9415-494b-82ff-db0a6450d55f	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:34:21	070214bb-53c6-4067-b63f-f42d4b84ee1b	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:34:36	701ad7a8-f192-4949-a8eb-9646ce71ce1e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:34:51	7189b2a1-907a-4c0e-bb67-6d66172e1a3e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:35:01	dc519c7a-0dd1-4a78-9134-4e112f3413ac	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:35:16	ef73d7b6-f988-4ae2-b4dc-3124b2de7565	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:35:37	eba9c9fd-cec6-4605-86b8-162dbd1b60f3	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:35:52	4d2c9668-8b23-4d6f-807a-a76cf6ac10f3	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:35:57	6ecfcde7-cfea-425e-8a02-bd7faecdafd7	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:36:12	6a4fc535-8371-495b-8b76-b95b1dcf676f	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:36:27	90eeb5bd-36e9-497d-943e-eb116e83aff3	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:36:42	4d353d34-2d7c-4b9e-9454-8e0ce9fd215c	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:36:56	47161efc-5e57-47e1-aeb1-9594c7772c3a	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:37:07	4e40c32b-b377-4def-8250-11afbb656806	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	10:37:22	3ed71e0e-8bf5-4b59-8061-e9f070f2d5f6	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:17:35	96a5cca3-8275-41ce-8634-924bb3e06d7a	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:18:07	ebc1d015-6b95-4719-b3bd-60aa5269fb9b	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:19:26	c39b7103-147b-4d75-9af1-9262bea982fc	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:19:41	70766d1e-577b-4ee5-9657-e5043a2d0c47	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:19:44	dfb4f282-41a8-4d78-b5ee-925810d1fe6e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:20:01	1e0a0090-fffe-4388-a14a-2c24dc93b233	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:20:12	02705839-18fc-4da0-8879-acf10d878684	ValidationError: Book validation failed: book: Path `book` is required.	POST	/books	http://localhost:3000
+20221030	19:20:12	36c4cc57-fe92-46b5-89e1-31c4ba787e27	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:20:40	6ce3a801-d88d-41df-8cb0-16868a90b2e9	ValidationError: Book validation failed: user: Path `user` is required.	POST	/books	http://localhost:3000
+20221030	19:20:40	a41dfd79-c71c-416b-817b-72817a9b624a	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:20:55	1cee1de4-3198-4e37-afca-43d1d6de4a92	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:21:10	68ada42e-7db8-40c0-af91-30f3913de08d	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:21:26	b6e9936a-020b-4fe6-8243-a2a7a914920d	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:21:41	9589d681-a5ee-43ea-a63f-86aec51cd630	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:21:56	f7d36c30-0b4e-489d-ad77-a53260fa3d10	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:22:57	7542b56b-1a05-4843-b336-d2d7f068e832	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:23:01	524e81c6-39c1-4336-98da-d5f54d125aa7	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:23:28	d7d91500-94bb-4577-a4f4-e69ca2eff825	ValidationError: Book validation failed: user: Path `user` is required.	POST	/books	http://localhost:3000
+20221030	19:23:29	723fdac1-7331-458d-be7c-138cbbd266e1	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:26:09	ef8e5a29-8890-4a97-88ae-9d0683c1a549	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:26:13	cffbd179-2543-40a0-ac67-36339b29e6e7	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:26:20	31b625a7-7b3b-4802-94f1-360725b7d30c	ValidationError: Book validation failed: user: Path `user` is required.	POST	/books	http://localhost:3000
+20221030	19:26:20	8bcdddad-1dcf-4b12-a467-34d12086db2f	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:26:36	2abb1e2a-8db1-4b50-8909-1cd9015efab4	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:26:50	499e78e0-1a96-438e-8d74-d24e5d2e4068	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:29:12	d1cbab57-f302-4327-a177-a041c8dc4ec5	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:29:27	9a7f4d41-3c5b-47cf-8a4f-b4959615004e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:29:43	f67b93d7-8e0c-409d-981e-48bfb6f13c45	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:31:40	3f71eb8e-a547-4e1e-bd27-2da6c4041a58	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:31:55	bf4377c4-a308-4277-8458-b1f7d11962a8	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:32:10	5667cf75-e405-4290-84ff-5644a3a388e7	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:32:26	1503542e-2343-4c6e-9eaa-b11d7f3fe9ec	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:32:41	cbde7159-fd53-478b-a899-acbe6bd13389	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:32:56	cadf9b5a-8cca-4dad-9213-1e1432c5c19b	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:34:53	0c1e98d1-3984-410b-ba19-ebe32d0eb1d5	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:35:09	d2ab6a36-8ab7-4570-b47f-068966b5ac8a	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:35:25	9bcbab28-d5ee-40e0-84bb-e7bf7730da13	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:35:41	66a51924-4ff2-4307-b889-d2a6e0bcc184	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:35:57	6560637e-cfe4-4db5-b5a4-3994fbbcdb7c	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:36:13	14f1d080-4ee1-4d17-8d32-4da6b8fd7e93	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:36:29	46a20945-378a-4ccb-9bbb-94fb20d582be	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:36:45	6fa935f7-676c-4a6a-a404-155db2c00dcb	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:37:01	53826acd-af0f-494a-a40c-c8ce5ada60ab	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:37:17	9938ff6d-eaac-4f40-a0dd-13192ea71425	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:37:33	86b168df-6ab2-44a5-a5f3-3dbb25a8cf09	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:37:49	aec846d2-30b3-47d8-9fb0-2a8a03837f12	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:38:05	539c35e8-70ee-46e2-82a3-8fc1ae021683	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:38:26	f670ffc9-b9c4-498c-a588-0c042a944355	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:38:49	358217d6-ff0b-4de7-8b39-cddd302cad07	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:39:05	ccb549e7-fcf0-496c-8b1a-1769ce9dad41	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:39:22	b05565d3-9d66-4318-9e33-fa86912ab1c6	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:42:42	9406a663-0c61-4b74-b7f4-c92f63731fd1	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	19:58:31	c1a1bebb-c62d-471d-8675-10d5916946ea	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:08:41	08f73f20-2caf-46e0-b4a8-90a9d496698e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:08:56	6f300b9f-bc53-42c3-be20-cb986eabe66d	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:09:11	2f50678c-56cb-4004-929e-60aa80289433	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:09:26	39b7fd73-8715-4684-a096-c7725ce2e537	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:10:56	37657f6a-a24b-4d47-9614-f28afe764e14	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:11:11	496dfa17-36ba-4c91-93c8-69a9f06893bc	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:11:26	c6bf3ea5-e360-4241-b16e-9c6ed5c1cbb7	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:11:42	b1b0365c-7bb2-4f76-995c-e858e2b0dab5	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:11:57	2c40e54e-b257-45d0-91b7-a0f1142fe1c1	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:12:13	034c045a-17e1-4af2-b963-557908d2115e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:12:19	1f5d6f71-4545-4e12-a5b1-6ffa9076b6e9	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:12:35	aa305ccf-c2d6-4323-bb83-22d08aa59bb4	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:12:50	9d1aa036-a71b-41c2-a29e-a3dfcc800acd	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:13:06	b66e1efa-fbc2-4109-b98e-aef82d16a93a	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:13:21	f94d6bab-a542-4aff-a8ac-523ee536cdb5	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:13:36	ba079c98-944f-4711-a8d8-fe5524e1d5ee	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:13:39	1448fba7-97ea-44c9-b0a4-dce892207339	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:13:55	06ea1d99-7e59-458e-8c10-e30c73a4ca4b	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:14:11	f933d4cd-645e-4e4f-a07c-071881777971	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:14:26	4a4664d9-fc76-4d70-8fb7-6b022184abed	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:14:32	161c6455-3f74-4bf2-981e-a31964972e25	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:14:48	4237d8f8-98bd-4fcb-ac80-53b3ec18ff1e	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:15:03	b065a8ba-051e-4347-9aa4-2957f6fdb611	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:15:19	163cd392-1435-4485-a1fa-010849f206ea	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:15:21	ae9ab6e6-9006-4a82-a2a3-64f96b35c3ea	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:15:30	887852b2-b61d-4569-a708-b75748656dcc	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:15:35	a78b08ad-a99d-459c-8f61-f0c59c6a89fd	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:15:50	5072e827-5959-4938-a0f7-fab730a7d71b	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:16:05	5ea37bd4-65db-49a8-b782-503c491da3eb	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:16:21	7da40c40-761e-46e9-ba8b-42fbc1171782	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:16:36	4bdfa5a3-aa7c-43f5-a6cc-7afb8e4aa164	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:16:51	6d0979ea-ed99-4a36-9afa-a1f99e661209	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:17:07	03b05021-5a80-46ea-9322-a7b945870a03	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:17:22	6c84ceb1-301d-4a4d-85f2-72aae2fc07b1	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:17:37	49b621de-5e1b-45d7-87a4-382b77c608c0	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:17:53	3bb96b80-4ac8-4e16-a7ad-4fb289391893	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:17:59	93ac58f9-0d7c-4eec-8c84-8fc62ca16ea7	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:18:01	026b2984-6700-4128-8bc2-b87767531abf	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:18:07	0264be53-01d9-4ae8-989d-06dd56375209	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:18:22	4efc9de7-fb4b-412e-959e-fb497eacd3ad	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:18:37	cd2ea443-94aa-42dd-be47-9a50fca8a176	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:18:52	a235c9df-65f4-4b8a-8882-0beef0386b50	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:19:04	6869624b-5ad8-4216-b99e-c9ad057c456f	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:19:19	d33b5ee9-f370-4451-a7a2-1db12216ee77	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:19:35	cfb75a07-86ab-4f1a-bb34-241d45658859	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:19:46	694c342f-153c-485a-8e09-85a859d13c86	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221030	20:20:01	b196919c-b8f4-4c0c-83cb-0f21b93974db	TypeError: Cannot read properties of null (reading 'username')	GET	/books	http://localhost:3000
+20221031	07:32:03	2d263c09-f039-4198-aeab-434d63765615	Error: Not allowed by CORS	POST	/users	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+20221031	09:54:27	b3f25be1-ba28-4643-825c-e5c7a803c700	ValidationError: Book validation failed: pages: Cast to Number failed for value "sdf0" (type string) at path "pages"	POST	/books	http://localhost:3000
+20221031	11:36:08	bfb3ccf6-c5f6-415c-b617-2beefc1fc4fe	MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/	GET	/books	http://localhost:3000
+20221031	11:36:54	60618153-4051-4bec-9f1c-d7332a2e6c46	MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/	GET	/books	http://localhost:3000
+20221031	11:37:39	7ed25f7e-fd37-4817-a1ac-c4aa14157d97	MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/	GET	/books	http://localhost:3000
